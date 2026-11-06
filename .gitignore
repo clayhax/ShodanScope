@@ -1,0 +1,24 @@
+# Secrets and engagement data
+scope.txt
+*-shodanscope*.csv
+*-shodanscope*.json
+*-shodanscope*.txt
+shodan.csv
+shodan.json
+shodan-inventory.txt
+shodan-ports.txt
+shodan-failed.txt
+.env
+.env.*
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
